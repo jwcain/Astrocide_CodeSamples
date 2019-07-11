@@ -1,15 +1,15 @@
-DynamicAI
+# DynamicAI
 
-CODE AUTHOR:
-	Justin Cain 
-	@AffinityForFun
-	jwcain@mtu.edu
-	jwcain.github.io/Portfilio
+## CODE AUTHOR
+- Justin Cain 
+- @AffinityForFun
+- jwcain@mtu.edu
+- jwcain.github.io/Portfilio
   
-STRUCTURE:
+## STRUCTURE
 	There are two file, Intelligence and AIBehviour.
 	
-DESIGN:
+## DESIGN
 	Intelligence serves as a data structure for a collection of AIBehaviour. It also serves
 	as a dynamic storage container for any persistent data used by AIBehaviours. Essentially,
 	the AIBehaviours are the actions that an AI can take, and the Intelligence serves as the
