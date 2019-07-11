@@ -1,13 +1,13 @@
 # Astrocide - Coney Dog Games, LLC
 
 ## Timeline:
-	I worked on this project as an intern during the summer of 2018
+I worked on this project as an intern during the summer of 2018
 	
-## CODE AUTHOR:
-  Justin Cain 
-  @AffinityForFun
-  jwcain@mtu.edu
-  jwcain.github.io/Portfolio
+## CODE AUTHOR
+- Justin Cain 
+- @AffinityForFun
+- jwcain@mtu.edu
+- jwcain.github.io/Portfolio
 
 Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch. I was hired in as an intern but was the only programmer on the team so I managed all of the software development.
 
