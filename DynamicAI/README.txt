@@ -4,7 +4,7 @@ CODE AUTHOR:
 	Justin Cain 
 	@AffinityForFun
 	jwcain@mtu.edu
-	jwcain.github.io
+	jwcain.github.io/Portfilio
   
 STRUCTURE:
 	There are two file, Intelligence and AIBehviour.
@@ -19,18 +19,10 @@ DESIGN:
 	after compile time but allow for customization. 
 	For example, most enemies have an explosion animation when they die. Multiple ExplosionBehaviour 
 	assets can be created in the editor, linking to the appropriate animation. The code for executing 
-	the animation is the same, and the asset wont change after compilation.
-	
-	The AIBehaviour base class has been included, but the behaviors themselves have not been as those
-	are the design property of Coney Dog.
+	the animation is the same, and the asset won't change after compilation.
 	
 	The general flow is as follows. The Intelligence receives a game update call. This call is distributed
 	throughout all behaviours. Each behaviour has a defined chance to ignore the update call (this is often
 	not used except for some randomized behaviours). Each AIBehaviour then reads its relevant data from
 	the Intelligence that called it (using defaults if not found), operates in some fashion, and then
 	writes out data to the Intelligence.
-	
-	Since all data is stored in one place, behaviours can modify other behaviours data. An example of when
-	this was used is the Drone enemy. It has two behaviours for movement, one standard movement and
-	one that modifies its movement data to avoid being shot by the player. This allows for the creation of
-	more complex behaviours by the interaction of multiple behaviours. 
