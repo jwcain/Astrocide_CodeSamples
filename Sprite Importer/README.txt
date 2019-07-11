@@ -4,7 +4,7 @@ CODE AUTHOR:
 	Justin Cain 
 	@AffinityForFun
 	jwcain@mtu.edu
-	jwcain.github.io
+	jwcain.github.io/Portfolio
 	
 STRUCTURE:
 	There are two files, "SpriteImporter" that provides the functionality for the tool and "SpriteImporterEditor"
