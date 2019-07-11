@@ -1,9 +1,9 @@
-Astrocide - Coney Dog Games, LLC
+# Astrocide - Coney Dog Games, LLC
 
-Timeline:
+## Timeline:
 	I worked on this project as an intern during the summer of 2018
 	
-CODE AUTHOR:
+## CODE AUTHOR:
   Justin Cain 
   @AffinityForFun
   jwcain@mtu.edu
