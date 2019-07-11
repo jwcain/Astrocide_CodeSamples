@@ -4,7 +4,7 @@ CODE AUTHOR:
 	Justin Cain 
 	@AffinityForFun
 	jwcain@mtu.edu
-	jwcain.github.io
+	jwcain.github.io/Porfolio
 	
 	
 Buffer:
@@ -12,7 +12,7 @@ Buffer:
 	This was used to track previous iterations of enemy wave spawns to serve as a data point for generating new waves.
 
 Counter:
-	The counter is a Dictionary string to int mapping. It adds the functionality of creating a key automatically in the 
+	The counter is a Dictionary string->int mapping. It adds the functionality of creating a key automatically in the 
 	Dictionary if it does not already have one when used with the index ([]) operation.
 		"
 			Counter t = new Counter();
@@ -28,4 +28,4 @@ StatisticsCollector:
 DelayedEventHandler:
 	The delayed event handler allowed for events to be saved to a timer based queue. The user calls with a time delay and
 	an array of UnityActions (essentially function pointers with arguments already supplied). The functions within the 
-	array are called after the real time has passed.
+	array are called after the real-time has passed.
