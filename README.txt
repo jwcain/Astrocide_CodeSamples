@@ -13,4 +13,4 @@ Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic f
 
 My part of the project was only developed during my internship during the summer of 2018. The current state of the project is unknown to me.
 
-With my employer’s permission, I have included a small sampling of the code I wrote for the project. Within each of their sub-folders, you can find a more detailed description about the code.
+With my employer’s permission, I have included a small sampling of the code I wrote for the project. Within each of their sub-folders, you can find a more detailed description of the code.
