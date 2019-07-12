@@ -3,7 +3,7 @@
 ## Timeline:
 I worked on this project as an intern during the summer of 2018
 	
-## CODE AUTHOR
+## Code Author
 - Justin Cain 
 - @AffinityForFun
 - jwcain@mtu.edu
