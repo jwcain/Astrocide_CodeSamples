@@ -1,10 +1,10 @@
 # Misc Utils
 
-## CODE AUTHOR:
-- Justin Cain 
+## Author
+- Justin W. Cain 
 - @AffinityForFun
 - jwcain@mtu.edu
- jwcain.github.io/Porfolio
+- [Portfolio](https://jwcain.github.io/Portfolio/)
 	
 	
 ## Buffer
