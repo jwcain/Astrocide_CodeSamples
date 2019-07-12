@@ -1,5 +1,5 @@
 # Astrocide - Coney Dog Games, LLC
-
+![Astrocide Main Screen](/Astrocide.png)
 ## Timeline
 I worked on this project as an intern during the summer of 2018
 	
