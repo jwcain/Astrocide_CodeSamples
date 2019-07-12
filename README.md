@@ -1,6 +1,6 @@
 # Astrocide - Coney Dog Games, LLC
 
-## Timeline:
+## Timeline
 I worked on this project as an intern during the summer of 2018
 	
 ## Code Author
