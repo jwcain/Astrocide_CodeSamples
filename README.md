@@ -5,9 +5,8 @@ I worked on this project as an intern during the summer of 2018
 	
 ## Code Author
 - Justin W. Cain 
-- @AffinityForFun
-- jwcain@mtu.edu
-- [Portfolio](https://jwcain.github.io/Portfolio/)
+- contact@justinwcain.com
+- [Portfolio](https://www.justinwcain.com)
 
 Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to some simple arcade games on the Nintendo Switch. I was hired in as an intern but was the only programmer on the team so I managed all of the software development.
 
